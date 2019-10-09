@@ -1,0 +1,16 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 4
+    Nama Char (254) ;
+    Kedalaman Char (10) ;
+    Ketinggian Char (10) ;
+    Status Char (10) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "99404cfc-3ec4-45fb-a2ce-228b1a1f9c63"
+end_metadata
